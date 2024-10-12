@@ -9,7 +9,7 @@ current_directory = os.path.dirname(os.path.abspath(__file__))
 
 # Define paths
 cars_folder = os.path.join(current_directory, "car")
-dlcpacks_folder = r"C:\Program Files\Epic Games\GTAV\update\x64\dlcpacks"
+dlcpacks_folder = r"C:\Program Files\Epic Games\GTAV\update\x64\dlcpacks" ## Change in case of steam or custom path 
 dlc_generator = os.path.join(current_directory, "DLCList Generator.exe")
 
 # Step 1: Unzip all .zip and .rar files from the car folder to a temporary folder
