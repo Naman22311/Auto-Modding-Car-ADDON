@@ -1,4 +1,4 @@
-# GTA V DLC Pack Installer & Manager
+# DLC Pack Installer & Manager
 
 This project automates the extraction and installation of custom DLC packs for **Grand Theft Auto V**. It simplifies the often tedious process of managing add-on vehicle mods by efficiently handling compressed archives, identifying necessary game files, and seamlessly integrating them into your game setup.
 
